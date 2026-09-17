@@ -86,7 +86,7 @@
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-<a href="mailto:abd.evansjimenez2046@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="evansjimenez2046@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </a>
 </div>
 
